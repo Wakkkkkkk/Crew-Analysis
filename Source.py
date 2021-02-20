@@ -1,2 +1,1 @@
-x = 4
-print(x)
+pip list
