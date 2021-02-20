@@ -30,7 +30,7 @@ if __name__ == '__main__' :
     # print(args)
 
     # set variables directly here
-    video_filepath_in = "rowingfromabove.mp4"
+    video_filepath_in = "trimmed.mp4"
     video_filepath_out = "tracking.avi"
     csv_filepath_out = "angles.csv" 
     num_oars = int(4)
